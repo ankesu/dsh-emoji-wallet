@@ -23,7 +23,7 @@ const PLATFORM_EXTERNALS = [
 
 export default [
   {
-    name: 'dsh-wallet',
+    name: 'dsh-emoji-wallet',
     entry: { index: 'src/index.ts' },
     outDir: 'lib',
     format: ['esm'],
@@ -34,7 +34,7 @@ export default [
     external: ['@deepseek-ai/cordis'],
   },
   {
-    name: 'dsh-wallet/client',
+    name: 'dsh-emoji-wallet/client',
     entry: { client: 'src/client/index.tsx' },
     outDir: 'lib',
     format: 'cjs',
