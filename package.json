@@ -1,6 +1,6 @@
 {
   "name": "dsh-emoji-wallet",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "DeepSeek balance wallet button for DSH: one click shows your API balance. · DSH 余额小钱包：点一下就看见本猫的小钱包",
   "type": "module",
   "main": "lib/index.mjs",

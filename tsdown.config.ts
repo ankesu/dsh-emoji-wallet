@@ -50,7 +50,7 @@ export default [
     noExternal: (id: string) => (PLATFORM_EXTERNALS.includes(id) ? undefined : true),
     outputOptions: {
       entryFileNames: 'client.js',
-      banner: `window.__ModuleLoader__.load({ id: "dsh-wallet", factory: (require) => {`,
+      banner: `window.__ModuleLoader__.load({ id: "dsh-emoji-wallet", factory: (require) => {`,
       footer: 'return module.exports; } });',
       intro: 'var module = { exports: {} }; var exports = module.exports;',
     },
