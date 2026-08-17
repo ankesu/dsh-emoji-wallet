@@ -1,0 +1,4 @@
+# dsh-wallet bundle patch — inserts its plugin row into the web plugin roster.
+- insert:
+    - id: wallet
+      name: dsh-wallet
