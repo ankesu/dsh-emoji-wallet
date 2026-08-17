@@ -1,5 +1,9 @@
 # dsh-emoji-wallet
 
+[![npm version](https://img.shields.io/npm/v/dsh-emoji-wallet.svg)](https://www.npmjs.com/package/dsh-emoji-wallet)
+[![npm downloads](https://img.shields.io/npm/dm/dsh-emoji-wallet.svg)](https://www.npmjs.com/package/dsh-emoji-wallet)
+[![license](https://img.shields.io/npm/l/dsh-emoji-wallet.svg)](LICENSE)
+
 > A minimal DeepSeek balance wallet for [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness): one click shows your API balance right in the session header.
 >
 > DSH 余额小钱包：顶栏一个 💰，点一下就知道 DeepSeek API 还剩多少钱。
