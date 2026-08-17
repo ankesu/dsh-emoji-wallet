@@ -1,9 +1,9 @@
 /**
- * dsh-wallet host half — a /api/wallet/balance endpoint that reads the
+ * dsh-emoji-wallet host half — a /api/wallet/balance endpoint that reads the
  * DEEPSEEK_API_KEY from the harness credentials file and queries the
  * DeepSeek balance API. The key never leaves the host; the client only ever
  * sees the balance numbers.
- * @module dsh-wallet
+ * @module dsh-emoji-wallet
  */
 
 import { Context } from '@deepseek-ai/cordis'

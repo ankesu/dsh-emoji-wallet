@@ -1,9 +1,9 @@
 /**
- * dsh-wallet client half — a 💰 button in the session header actions slot
+ * dsh-emoji-wallet client half — a 💰 button in the session header actions slot
  * (next to the preset selector / session log), one click fetches
  * /api/wallet/balance and pops a small wallet bubble. The API key never
  * touches the browser.
- * @module dsh-wallet/client
+ * @module dsh-emoji-wallet/client
  */
 
 import { useEffect, useRef, useState } from 'react'

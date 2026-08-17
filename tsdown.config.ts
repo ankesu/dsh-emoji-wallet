@@ -1,5 +1,5 @@
 /**
- * tsdown config for dsh-wallet — node half (lib/index.mjs) + browser client
+ * tsdown config for dsh-emoji-wallet — node half (lib/index.mjs) + browser client
  * bundle (lib/client.js, CJS with the harness loader handoff).
  *
  * The client bundle externals mirror the harness platform seed table
