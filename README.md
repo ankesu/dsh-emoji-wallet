@@ -1,4 +1,4 @@
-# dsh-wallet
+# dsh-emoji-wallet
 
 > A minimal DeepSeek balance wallet for [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness): one click shows your API balance right in the session header.
 >
@@ -16,7 +16,7 @@
 ## Install / 安装
 
 ```bash
-dsh plugin --profile web add dsh-wallet
+dsh plugin --profile web add dsh-emoji-wallet
 ```
 
 Restart the harness. A 💰 button appears in the session header, right next to
